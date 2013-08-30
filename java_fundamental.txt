@@ -1,0 +1,4 @@
+nama	:muhamad saami
+kelas	:xi - rpl
+alamat	:jakarta
+data
