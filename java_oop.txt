@@ -1,4 +1,3 @@
 nama	:muhamadsaami
 kelas	:xi - rpl
 alamat	:jakarta
-data
